@@ -1,5 +1,8 @@
 _repo: Marie-Antoinette-and-Her-Son_3451
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mühlbach, L. (Luise)
@@ -17,6 +20,8 @@ creator:
     wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
 description: A fantastic classic historical novel by the German master of the genre
   Clara Mundt, better known by her pen-name of Louise Muhlbach.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3451#Marie-Antoinette-and-Her-Son
 gutenberg_issued: '2002-10-01'
 gutenberg_type: Text
 identifiers:
