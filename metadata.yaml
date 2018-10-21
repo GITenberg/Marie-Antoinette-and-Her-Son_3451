@@ -1,5 +1,5 @@
 _repo: Marie-Antoinette-and-Her-Son_3451
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -36,5 +36,6 @@ subjects:
   -- Fiction'
 - !lcsh 'Historical fiction'
 - !lcc 'PT'
+- GITenberg
 title: Marie Antoinette and Her Son
 url: http://www.gutenberg.org/ebooks/3451
